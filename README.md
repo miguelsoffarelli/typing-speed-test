@@ -20,7 +20,7 @@ A simple Pygame-based typing speed test application that measures your typing sp
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/typing-speed-test.git
+   git clone https://github.com/miguelsoffarelli/typing-speed-test.git
    cd typing-speed-test
    ```
 
