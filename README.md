@@ -13,7 +13,6 @@ A simple Pygame-based typing speed test application that measures your typing sp
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Project Structure](#project-structure)
 * [Dependencies](#dependencies)
 
 ## Installation
